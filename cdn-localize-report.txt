@@ -4,26 +4,7 @@ FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/web-games@main/unitygodot/Ice%20
 
 FAILED https://cdn.jsdelivr.net/gh/Stinkalistic/web-games@main/unitygodot/Ice%20Age%20Baby%20Adventure/Build/web.framework.js: curl: (22) The requested URL returned error: 404
 
-BASE OK bubblfan/ice-dodo@HEAD/. -> icedodo
-BASE REWRITE icedodo
-FILE idle-breakout: https://cdn.jsdelivr.net/gh/bobydob/JSEngine@9b6eab8976a7acc4aee72479af65647693633abc/build/id-br/ibo.js -> assets/cdn/077cbef9-ibo.js
-BASE OK bubbls/UGS-Assets@502d9929c38769d4f92f8199334b596486b038f7/idle idle game dev -> idle-idle-gamedev
-BASE REWRITE idle-idle-gamedev
-FILE idle-miner-tycoon: https://cdn.jsdelivr.net/gh/bubbls/ruffle@71c149b76c77807157b3cd19d2302ff8feb53593/idlemin.js -> assets/cdn/40249075-idlemin.js
-FILE idle-miner-tycoon: https://cdn.jsdelivr.net/gh/bubbls/ruffle@71c149b76c77807157b3cd19d2302ff8feb53593/c2.js -> assets/cdn/581c0547-c2.js
-FILE impossible-quiz-2: https://cdn.jsdelivr.net/gh/74m4h4/74m4h4-Assets@5cb61b353cff0365c082c9309e82bb561c027201/Run%202/waflash/waflash-style.css -> assets/cdn/c7744fd0-waflash-style.css
-FILE impossible-quiz-2: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@1500a41d490b7455b4f3c8bfe2922687e18a6083/theimpossiblequiz2.swf -> assets/cdn/61590a9d-theimpossiblequiz2.swf
-FILE impossible-quiz-2: https://cdn.jsdelivr.net/gh/zhit73/wafedit@badeade9f58a3987043cdcc12c863c0b2eb3de01/wasm/waflash-player.min.js -> assets/cdn/bbeeb748-waflash-player.min.js
-FILE impossible-quiz-2: https://cdn.jsdelivr.net/gh/st39/sdk@main/api.js -> assets/cdn/bd41ea11-api.js
-EMU OK genizy/emu@master cores=mgba
-FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@4290140280231f4a4ee85d1f5356a6a085f70c9d/inclement%20emerald/pokemonemerald%20(1)%20(patched).gba: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/bubblfan/ice-fishing@main/index.html: curl: (22) The requested URL returned error: 404
 
-FILE innkeeper: https://cdn.jsdelivr.net/gh/aabssmc/game@c0063bc295e6b3a28425014f5ce3e3bb1bcedf2b/Run%202/waflash/waflash-style.css -> assets/cdn/d9eff8eb-waflash-style.css
-FILE innkeeper: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@026e6b964b40462bf240e8e41191a4fb7adca850/innkeeper-13050.swf -> assets/cdn/4b9bb0be-innkeeper-13050.swf
-FILE innkeeper: https://cdn.jsdelivr.net/gh/zhit73/wafedit@9a54e45ac557ff834db6bc4e50b46c0f35d69587/wasm/waflash-player.min.js -> assets/cdn/4f094111-waflash-player.min.js
-BASE OK bubbls/UGS-Assets@5374d57e9cee53129e2a4b730a63b8a6322e81de/iron snout -> iron-snout
-BASE REWRITE iron-snout
-FILE iron-soldier: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> assets/cdn/b3879e55-fonts-b3879e5526.css
-FILE iron-soldier: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Iron%20Soldier%20(World).zip -> assets/cdn/e26323ae-Iron_Soldier_World_.zip
-FILE iron-soldier: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> assets/cdn/6515c379-loader.js
-FILE iron-soldier: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> assets/cdn/cccb2f51-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@4290140280231f4a4ee85d1f5356a6a085f70c9d/inclement%20emerald/pokemonemerald%20(1)%20(patched).gba: curl: (22) The requested URL returned error: 404
+
